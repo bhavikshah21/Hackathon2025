@@ -1,0 +1,5 @@
+database:
+  path: inventory.db
+
+external_services:
+  pricing_api: https://api.pricing-service.com/getPrice
